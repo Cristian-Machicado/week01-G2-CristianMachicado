@@ -1,17 +1,21 @@
+*{
+    background-color: rgb(219, 219, 219);
+}
 h1 {
     font-size: 30px;
     text-decoration: underline;
     color: gray;
+    background-color: rgb(233, 233, 233);
 }
 .link{
     text-decoration: underline;
-    color: rgb(39, 240, 173);
+    color: rgb(240, 62, 39);
 }
 
 .parrafo{
     font-size: 20px;
     color: blue;
-    background-color: aqua;
+    background-color: rgb(138, 154, 245);
     text-transform: lowercase;
 }
 
@@ -27,6 +31,10 @@ h2{
     background-color: rgb(192, 243, 243);
 }
 
-.color{
+#color{
     color: blue;
+}
+
+.valles{
+    color: blueviolet;
 }
