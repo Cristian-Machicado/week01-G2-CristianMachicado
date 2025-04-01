@@ -1,3 +1,32 @@
-*{
-    
+h1 {
+    font-size: 30px;
+    text-decoration: underline;
+    color: gray;
+}
+.link{
+    text-decoration: underline;
+    color: rgb(39, 240, 173);
+}
+
+.parrafo{
+    font-size: 20px;
+    color: blue;
+    background-color: aqua;
+    text-transform: lowercase;
+}
+
+.imagen{
+   height: 300px;
+}
+h2{
+    color: brown;
+    background-color: rgb(226, 143, 143);
+}
+.h2{
+    color: rgb(31, 196, 141);
+    background-color: rgb(192, 243, 243);
+}
+
+.color{
+    color: blue;
 }
